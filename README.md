@@ -1,4 +1,4 @@
-# iTunes-search-App-
+# iTunes-search-App
 
 Search your favourite artists/songs with this application
 
